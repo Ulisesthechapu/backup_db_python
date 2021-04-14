@@ -6,4 +6,7 @@
 ```
 $ pip install patool
 ```
-## Install WinRar, si es windows hay que agregar la variable de entorno, en ocasiones no se agrega.
+### Install WinRar, si es windows hay que agregar la variable de entorno, en ocasiones no se agrega.
+
+Por que Winrar y no en Zip.
+El tamaño de los archivos finales en WinRar son mas pequeños.
