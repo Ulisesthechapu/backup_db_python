@@ -10,3 +10,9 @@ $ pip install patool
 
 Por que Winrar y no en Zip.
 El tamaño de los archivos finales en WinRar son mas pequeños.
+
+
+Finalmente corres el script
+```
+$ python rar_file_backs.py
+```
